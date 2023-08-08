@@ -2,9 +2,9 @@
 
 <p id="description">making dashboard with power-bi | road accident dataset</p>
 
-<h2>Project Screenshots:</h2>
+<h2> Screenshots:</h2>
 
-![road_accident](https://github.com/AtenaAT/road_accident_dashboard_with_powerBI/assets/91009525/a358230f-1670-4e1a-9e44-fbffeb7c88c2)
+![road_accident](https://github.com/AtenaAT/road_accident_dashboard_with_powerBI/assets/91009525/8137b04b-5ed8-487a-b8cd-d677da80e12d)
 
 
 <h2>Requirements</h2>
